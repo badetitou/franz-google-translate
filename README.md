@@ -1,4 +1,4 @@
-# Textto for Franz
+# Google Translate for Franz
 
 An unofficial [Franz](https://meetfranz.com/) recipe for [Google Translate](https://translate.google.com/).
 
