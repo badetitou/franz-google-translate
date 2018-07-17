@@ -8,7 +8,7 @@ An unofficial [Franz](https://meetfranz.com/) recipe for [Google Translate](http
 
 With git and PowerShell:
 
-```
+```bash
 mkdir $env:APPDATA\Franz\recipes\dev\
 git clone git@github.com:badetitou/franz-google-translate.git $env:APPDATA\Franz\recipes\dev\franz-google-translate
 ```
@@ -22,15 +22,14 @@ With Explorer:
 
 ### Mac
 
-```
+```bash
 mkdir ~/Library/Application\ Support/Franz/recipes/dev/
 git clone git@github.com:badetitou/franz-google-translate.git ~/Library/Application\ Support/Franz/recipes/dev/franz-google-translate
-
+```
 
 ### Linux
 
-```
+```bash
 mkdir ~/.config/Franz/recipes/dev
 git clone git@github.com:badetitou/franz-google-translate.git ~/.config/Franz/recipes/dev/franz-google-translate
 ```
-
